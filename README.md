@@ -4,6 +4,9 @@
 EDA for New Business Opportunity at Flatiron School Data Science Immersive Program..<br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Sqlite3, Requests, Folium
 
+[**Kings County Housing Price Prediction  : 2021**](https://github.com/vanitoz/nyc_mhtn_ds_120720_Project_2.git)<br>
+Developing a Linear regression model that will **predict the prices of homes** sold in the Seattle, King County,WA area.
+Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Dateutil, Scipy, Geopy, Scipy
 <!--
 **vanitoz/vanitoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
