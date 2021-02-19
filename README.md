@@ -1,7 +1,11 @@
 # Welcome to Ivan Zakharchuk Github Portfolio
 
+[**Understanding and Predicting Blight Fine  : 2021**](https://github.com/vanitoz/nyc_mhtn_ds_Project_3.git)<br>
+Understanding when and why a resident might fail to comply with a blight ticket in the city of Detroit.
+Building and Evaluation models that help to predict whether a given blight ticket will be paid on time<br>
+
 [**New Business Opportunity Exploratory Data Analysis  : 2021**](https://github.com/vanitoz/nyc_mhtn_ds_120720_Project_1.git)<br>
-EDA for New Business Opportunity at Flatiron School Data Science Immersive Program..<br>
+EDA for New Business Opportunity at Flatiron School Data Science Immersive Program.<br>
 Libraries utilized: Pandas, Numpy, Matplotlib, Sqlite3, Requests, Folium
 
 [**Kings County Housing Price Prediction  : 2021**](https://github.com/vanitoz/nyc_mhtn_ds_120720_Project_2.git)<br>
