@@ -1,5 +1,8 @@
 # Welcome to Ivan Zakharchuk Github Portfolio
 
+[**Twitter-Sentiment-Analysis : 2021**](https://github.com/vanitoz/Twitter-Sentiment-Analysis.git)<br>
+Building and Evaluation model that helps to identify hate speech using machine learning binary classification algorithm<br>
+
 [**Understanding and Predicting Blight Fine  : 2021**](https://github.com/vanitoz/nyc_mhtn_ds_Project_3.git)<br>
 Understanding when and why a resident might fail to comply with a blight ticket in the city of Detroit.
 Building and Evaluation models that help to predict whether a given blight ticket will be paid on time<br>
