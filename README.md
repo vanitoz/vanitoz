@@ -1,5 +1,8 @@
 # Welcome to Ivan Zakharchuk Github Portfolio
 
+[**Reviews Classification System with NLP : 2021**](https://github.com/vanitoz/Twitter-Sentiment-Analysis.git)<br>
+Building a model that will be able to classify customers reviews using machine learning multi classification algorithms <br>
+
 [**Twitter-Sentiment-Analysis : 2021**](https://github.com/vanitoz/Twitter-Sentiment-Analysis.git)<br>
 Building and Evaluation model that helps to identify hate speech using machine learning binary classification algorithm<br>
 
